@@ -21,10 +21,10 @@ python3 Sim.py
 I have implemented the BP(Backpropagation) algorithm to the model.The SImNo.py is the simulation and the Sensor_BP.py is an experiment dataSet with PX4.
 
 ## BP simulation result
-Sensor Data:
+Sensor Data
 ![sensor data](https://img-blog.csdnimg.cn/20181113105018471.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4NzczMTgz,size_16,color_FFFFFF,t_70)
 
-Model Data:
+Model Data
 ![model data](https://img-blog.csdnimg.cn/20181113105120249.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4NzczMTgz,size_16,color_FFFFFF,t_70)
 
 ----------
